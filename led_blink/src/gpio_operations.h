@@ -2,7 +2,7 @@
 #define GPIO_OPERATIONS_H
 
 /* LED Delay */
-#define LED_DELAY   500
+#define LED_DELAY   5000
 
 //-----get the node reference----
 #define BLUE_LED DT_ALIAS(blueled)
