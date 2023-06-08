@@ -1,1 +1,1 @@
-#this is a modular project approach to blink different LEDs on Arduino BLE.
+# This repository contains different small projects based on modular approach for nRF52840
